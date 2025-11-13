@@ -20,11 +20,11 @@ TikTok-style chat streaks for Discord! Write every day → get a fire streak in 
 
 - 🔥 **Streak counter** next to usernames in DM list
 - 🎨 **Dynamic colors** - Orange (10-49d) → Purple (50-99d) → Red (100+d)
-- 🎉 **Epic milestone animations** at 10, 50, 100 days (fire spins 6x!)
+- 🎉 **Epic milestone animations** at 10, 50, 100 days
 - 💨 **Streak loss animation** - fire fades out with smoke
 - 📊 **Statistics dashboard** - View top 5 streaks, total days, and more
 - 👤 **Profile badges** showing streak in user popouts
-- ⏰ **Auto-reset** after 24 hours of no messages
+- ⏰ **Daily reset at 00:00 MSK** (Moscow time, UTC+3)
 - ⚡ **Lightweight** — no lag, minimal memory usage
 - 🔓 **No permissions** required
 - 📖 **Open-source** (MIT License)
