@@ -111,13 +111,10 @@ Streak colors change based on achievement level:
 ## 📱 Screenshots
 
 ### Streak in DM List
-![DM List Preview]() *(Add screenshot)*
+![DM List Preview]() *([Add screenshot](https://github.com/user-attachments/assets/56253d33-aaca-4627-b419-0937382c481b))*
 
 ### Statistics Dashboard
-![Stats Modal]() *(Add screenshot)*
-
-### Milestone Animation
-![Animation GIF]() *(Add GIF)*
+![Stats Modal]() *([Add screenshot](https://github.com/user-attachments/assets/6a9182a6-db54-4a4e-94b2-6f72f787f78f))*
 
 ---
 
@@ -151,6 +148,7 @@ Contributions are welcome! Feel free to:
 - 🐛 Report bugs
 - 💡 Suggest features
 - 🔧 Submit pull requests
+
 - 📖 Improve documentation
 
 ---
