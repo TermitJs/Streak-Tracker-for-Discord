@@ -47,8 +47,8 @@ No permissions required
 
 Support
 
-Discord: https://discord.gg/DcqV7MS6nS
-Donate:https://boosty.to/termitjs
+Discord: [https://discord.gg/DcqV7MS6nS](https://discord.gg/DcqV7MS6nS)
+Donate: [https://boosty.to/termitjs](https://boosty.to/termitjs)
 
 
 Legal & Warning
