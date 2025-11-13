@@ -32,7 +32,6 @@ bash1. Place files in:
 Starting
 No setup needed!
 Just write a message — streak starts automatically.
-<img width="265" height="45" alt="dm" src="https://github.com/user-attachments/assets/56253d33-aaca-4627-b419-0937382c481b" />
 
 Features List
 
@@ -48,7 +47,7 @@ No permissions required
 ### 🧰 Support
 
 <https://discord.gg/DcqV7MS6nS>
-[Boosty](https://boosty.to/termitjs)
+<Boosty[](https://boosty.to/termitjs)
 
 
 Legal & Warning
