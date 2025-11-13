@@ -24,7 +24,7 @@ bash1. Place files in:
    %AppData%\BetterDiscord\plugins\StreakTracker\
    
    ├── StreakTracker.plugin.js
-   └── StreakTracker.config.js
+   └── StreakTracker.config.json
 
 2. Restart Discord
 3. Settings → Plugins → Enable "Streak Tracker"
@@ -45,9 +45,9 @@ Open-source (MIT)
 No permissions required
 
 
-Support
+### 🧰 Support
 
-[Discord](https://discord.gg/DcqV7MS6nS)
+<https://discord.gg/DcqV7MS6nS>
 [Boosty](https://boosty.to/termitjs)
 
 
