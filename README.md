@@ -111,7 +111,6 @@ Streak colors change based on achievement level:
 ## 📱 Screenshots
 
 ### Streak in DM List
-### Streak in DM List
 ![DM List Preview](https://github.com/user-attachments/assets/56253d33-aaca-4627-b419-0937382c481b)
 
 ### Statistics Dashboard
