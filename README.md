@@ -1,1 +1,1 @@
-TikTok-style chat streaks for Discord! Write every day → get a fire streak in DMs & profile. Auto-reset after 24h. Inspired by TikTok. Lightweight, open-source. Follow me: [GitHub](https://github.com/TermitJs) | [Donate](https://boosty.to/termitjs)
+TikTok-style chat streaks for Discord! Write every day → get a fire streak in DMs & profile. Auto-reset after 24h. Inspired by TikTok. Lightweight, open-source. Follow me: [GitHub](https://github.com/TermitJs) | [Donate](https://boosty.to/termitjs) | [Discord](https://discord.gg/DcqV7MS6nS)
