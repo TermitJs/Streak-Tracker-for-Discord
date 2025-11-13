@@ -7,7 +7,7 @@ TikTok-style chat streaks for Discord! Write every day → get a fire streak in 
 > Miss a day → streak resets  
 > Just like in **TikTok**, but for your DMs & servers
 
-![Streak in DM](screenshots/dm.png)  
+![Streak in DM](https://github.com/user-attachments/assets/56253d33-aaca-4627-b419-0937382c481b) 
 
 ---
 
